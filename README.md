@@ -1,4 +1,4 @@
-### Youtube - System Design
+## Youtube - System Design
 
 - Provides reliability, availability, consistency, scalability and low latency
 - Encode videos asynchronously using queue like Kafka or RabbitMQ
@@ -12,6 +12,6 @@
 <br />
 <br />
 
-### References:
+## References
 - [https://vitess.io/](https://vitess.io/)
 - [https://www.youtube.com/watch?v=E6H4bgJ3Z6c](https://www.youtube.com/watch?v=E6H4bgJ3Z6c)
